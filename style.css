@@ -84,9 +84,9 @@ h2.welcome{
     border-radius: 20px;
 
     text-align: left;
-    margin-left: 300px;
-    margin-right: 300px;
-    font-size: 50px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    font-size: 30px;
     padding: 50px;
 
 }
@@ -103,10 +103,10 @@ h2.welcome{
     .intro{
       background-color: rgba(221, 221, 221, .8);
       border-radius: 20px;
-  
+      
       text-align: left;
-      margin-left: 300px;
-      margin-right: 300px;
+      margin-left: 100px;
+      margin-right: 100px;
       font-size: 40px;
       padding: 40px;
   
