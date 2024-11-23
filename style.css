@@ -130,7 +130,7 @@ h2.welcome{
   }
 
     .welcome{
-      font-size: 30px;
+      font-size: 100px;
 
     }
 
@@ -164,7 +164,32 @@ h2.welcome{
     }
   }
 
- 
+ @media (max-width: 467px) {
 
+    label.logo {
+        color: black;
+        font-size: 15px;
+        line-height: 80px;
+        padding: 0 70px;
+        font-weight: bold;
+      }
+
+      .welcome{
+        font-size: 50px;
+  
+      }
+
+ }
+ @media (max-width: 360px) {
+
+    label.logo {
+        color: black;
+        font-size: 10px;
+        line-height: 80px;
+        padding: 0 70px;
+        font-weight: bold;
+      }
+
+ }
 
   
