@@ -25,7 +25,7 @@ h2.welcome{
 
 
   body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Noto Sans Math", sans-serif;
     background-size: 100%;
     background-repeat: no-repeat;
     background-image: url(mi.png);
@@ -62,7 +62,7 @@ h2.welcome{
   }
 
   ul li a:hover {
-    background-color: rgba(255, 255, 255, 0.609);
+    background-color: rgba(255, 255, 255);
     border-radius: 10px;
     transition: .5s;
   }
@@ -157,7 +157,7 @@ h2.welcome{
       font-size: 20px;
     }
     a:hover{
-      background: rgba(221, 221, 221, 0.546);
+      background: rgba(221, 221, 221);
     }
     #check:checked~ul {
       left: 0;
